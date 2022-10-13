@@ -1,12 +1,13 @@
 #include  <stdio.h>
 
 /**
- * main - Entry
- * Return: Always 0
+ * main - Entry point
+ * Description: C program that prints a function followed by a new line
+ * Return: 0 if successful
  */
+
 int main(void)
 {
-	puts("\"programming is like building a multilingual puzzle");
-	return (0);
-
-
+	puts("\"Programming is like building a multilingual puzzle");
+			return (0);
+}
